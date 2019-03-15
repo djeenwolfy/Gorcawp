@@ -1,0 +1,33 @@
+footer{
+min-height: 160px;
+background-color: #030264;
+
+}
+footer ul li a {
+	color: white;
+}
+footer{
+	color:white;
+}
+.about-us{
+	margin: auto;
+}
+#footer{
+	margin-bottom: 0;
+}
+.logo-footer{
+	margin: auto;
+	padding-top: 60px;
+}
+
+#footer div{
+	padding: 15px;
+	
+}
+.copyright-info{
+	padding-bottom: 1px;
+	margin: 0 auto;
+}
+.copyright-info p{
+	margin: 0;
+}
